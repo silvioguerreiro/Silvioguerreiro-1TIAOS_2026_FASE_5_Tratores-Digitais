@@ -58,6 +58,7 @@ fiap_fase5_farmtech_projeto_final/
   - **Rubber, natural**: 39 registros
     
 ## 3.2 Link de acesso ao Jupyter
+
   - https://colab.research.google.com/drive/15rxJ8rxyo9SJ4xUpyRSVBqGOM1Bhj01Q?usp=drive_link
 
 
@@ -130,17 +131,7 @@ Substitua pelos links finais antes da entrega:
 - **Vídeo 1 — Entrega 1:** COLE_AQUI_O_LINK_DO_YOUTUBE_NAO_LISTADO
 - **Vídeo 2 — Entrega 2:** COLE_AQUI_O_LINK_DO_YOUTUBE_NAO_LISTADO
 
-## 6. Observações finais para entrega
-
-- mantenha o repositório **público**;
-- evite novos commits após o prazo de entrega;
-- confira se o notebook está **executado**;
-- confira se o nome do notebook está no padrão da FIAP;
-- inclua no GitHub o link do notebook, do README e dos vídeos.
-
-## 7. Resultado final do projeto
-
-O projeto atendeu aos dois objetivos propostos:
+## 6.Resultado final do projeto
 
 - identificou padrões de produtividade por clusterização;
 - detectou cenários discrepantes;
