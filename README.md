@@ -75,7 +75,7 @@ Este repositório apresenta a resolução da atividade da **Fase 5**, organizada
 
 ## 2.2 Acesso ao notebook
 - [Abrir no Google Colab](https://colab.research.google.com/drive/15rxJ8rxyo9SJ4xUpyRSVBqGOM1Bhj01Q?usp=drive_link)
-- Link Video: https://youtu.be/mhZatSwNN78
+- Link Video Notebook: https://youtu.be/mhZatSwNN78
 ---
 
 # 3. Entrega 2 — Computação em Nuvem (AWS)
@@ -290,7 +290,8 @@ Sob a ótica da **LGPD**, a escolha de `sa-east-1` é mais prudente quando o pro
 
 ---
 
-## 3.11 Link Video
+## 3.11 Link Video AWS Pricing Calculator
+
 https://youtu.be/-54wGEJ8z28
 
 ---
