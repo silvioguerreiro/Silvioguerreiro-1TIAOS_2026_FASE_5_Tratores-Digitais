@@ -343,12 +343,3 @@ Se o projeto exigir **baixa latência para os sensores** e houver **restrição 
 
 ---
 
-## Observação final
-
-Este README foi organizado para responder **explicitamente às duas perguntas do enunciado**, demonstrando:
-
-- a **estimativa de custo**;
-- a **justificativa técnica da instância e do armazenamento**;
-- a **comparação visual por gráficos**;
-- a **arquitetura mínima recomendada**;
-- a **decisão final com base em custo, latência e LGPD**.
